@@ -1,0 +1,26 @@
+
+h1 {
+    margin:auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    border: 2px red;
+}
+
+body {
+    background:lightgray no-repeat fixed center;
+}
+
+p {
+    margin:auto;
+    width: 100%;
+    padding: 10px;
+    text-align: justify;
+}
+
+coder {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
